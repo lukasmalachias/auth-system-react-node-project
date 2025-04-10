@@ -1,0 +1,40 @@
+# Ambiente
+.env
+
+# Sistema
+Thumbs.db
+
+# Logs do backend e frontend
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Pastas de build
+node_modules/
+dist/
+dist-ssr/
+build/
+
+# Arquivos locais
+*.local
+.env.local
+.env.*.local
+
+# Diretórios de IDEs/editores
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Histórico do sistema operacional
+*.bak
+*.tmp
