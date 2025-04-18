@@ -25,7 +25,7 @@ Aplicação completa de login e cadastro de usuários, desenvolvida com React no
 ### 📦 Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/lukasmalachias/auth-system-react-node-project.git
 cd seu-repositorio
 ```
 
