@@ -1,6 +1,6 @@
 # 🔐 Sistema de Login e Cadastro
 
-Aplicação simples de login e cadastro de usuários, construída com **React** no front-end e **Node.js (Express)** no back-end. Ideal para estudos de autenticação e integração de APIs.
+Aplicação completa de login e cadastro de usuários, desenvolvida com React no front-end e Node.js (Express) no back-end. Perfeita para projetos práticos de autenticação e integração entre front-end e APIs REST.
 
 ---
 
@@ -27,4 +27,16 @@ Aplicação simples de login e cadastro de usuários, construída com **React** 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+
+### 📦 Instale as dependências
+
+```bash
+Back-end
+
+cd backend
+npm install
+npm start
+```
+
 
